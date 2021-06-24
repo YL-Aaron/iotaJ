@@ -1,5 +1,5 @@
 # iotaJ
-IOTA JAVA版序列化和签名
+IOTA JAVA版序列化和签名(待完善)
 
 例子在测试包中
 
